@@ -344,17 +344,7 @@ If using Google Drive, replace `/content/...` with your Drive-mounted path.
 
 ---
 
-## 9. Key outputs produced in `/content/`
-
-Depending on which sections you run, outputs include:
-
-- `Normalized_4500_With_All_IGI_Factors.xlsx`
-- `Student_Feedback_With_KQS.xlsx`
-- Multiple plots rendered inline (no separate image export cells by default)
-
----
-
-## 10. Notes for editor/reviewer reproducibility
+## 9. Notes for  reproducibility
 
 - The notebook is structured as a **research demonstration**: multiple dataset-scale experiments are included (1000 / 4500 / 45000).
 - Sections are independent; reviewers can run:
