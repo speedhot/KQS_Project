@@ -12,7 +12,7 @@ The figures provided here support the experimental analysis, optimization proces
 | File Name          | Description                                                                                        |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
 | [`4.png`](4.png)   | Figure S(1): KQS Weight Optimization Loss Curve                                                    |
-| [`6.png`](6.png)   | Figure S(2): Statistical Distribution of KQS and HKQS                                              |
+| [`6.png`](5.png)   | Figure S(2):  KQS vs. HKQS (Expert Score)                                              |
 | [`8.png`](8.png)   | Figure S(3): Observed KQS versus Final Optimized KQS for Detecting Changes in Lecture Content Quality |
 | [`12.png`](12.png) | Figure S(4): Component Removal Ablation Study                                                        |
 | [`13.png`](13.png) | Figure S(5): KQS versus Student Clarity Rating (SCR)                                              |
@@ -30,23 +30,23 @@ These supplementary figures provide additional visual evidence supporting the pr
 
 ## Figure Preview
 
-### Figure 4(b): KQS Weight Optimization Loss Curve ([Open Image](4.png))
-![Figure 4(b)](4.png)
+### Figure S(1): KQS Weight Optimization Loss Curve ([Open Image](4.png))
+![Figure S(1)](4.png)
 
-### Figure 4(d): Statistical Distribution of KQS and HKQS ([Open Image](6.png))
-![Figure 4(d)](6.png)
+### Figure S(2): KQS vs. HKQS (Expert Score) ([Open Image](5.png))
+![Figure S(2)](5.png)
 
 ### Figure 6: Observed KQS versus Final Optimized KQS for Detecting Changes in Lecture Content Quality ([Open Image](8.png))
-![Figure 6](8.png)
+![Figure S(3)](8.png)
 
 ### Figure 10: Component Removal Ablation Study ([Open Image](12.png))
-![Figure 10](12.png)
+![Figure S(4)](12.png)
 
 ### Figure 11(a): KQS versus Student Clarity Rating (SCR) ([Open Image](13.png))
-![Figure 11(a)](13.png)
+![Figure S(5)](13.png)
 
 ### Figure 11(b): KQS versus Faculty Clarity Rating (FCR) ([Open Image](14.png))
-![Figure 11(b)](14.png)
+![Figure S(6)](14.png)
 ## Citation
 
 If you use or reference these supplementary materials, please cite the associated research article:
