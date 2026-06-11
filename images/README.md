@@ -11,12 +11,12 @@ The figures provided here support the experimental analysis, optimization proces
 
 | File Name          | Description                                                                                        |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
-| [`4.png`](4.png)   | Figure 4(b): KQS Weight Optimization Loss Curve                                                    |
-| [`6.png`](6.png)   | Figure 4(d): Statistical Distribution of KQS and HKQS                                              |
-| [`8.png`](8.png)   | Figure 6: Observed KQS versus Final Optimized KQS for Detecting Changes in Lecture Content Quality |
-| [`12.png`](12.png) | Figure 10: Component Removal Ablation Study                                                        |
-| [`13.png`](13.png) | Figure 11(a): KQS versus Student Clarity Rating (SCR)                                              |
-| [`14.png`](14.png) | Figure 11(b): KQS versus Faculty Clarity Rating (FCR)                                              |
+| [`4.png`](4.png)   | Figure S(1): KQS Weight Optimization Loss Curve                                                    |
+| [`6.png`](6.png)   | Figure S(2): Statistical Distribution of KQS and HKQS                                              |
+| [`8.png`](8.png)   | Figure S(3): Observed KQS versus Final Optimized KQS for Detecting Changes in Lecture Content Quality |
+| [`12.png`](12.png) | Figure S(4): Component Removal Ablation Study                                                        |
+| [`13.png`](13.png) | Figure S(5): KQS versus Student Clarity Rating (SCR)                                              |
+| [`14.png`](14.png) | Figure S(6): KQS versus Faculty Clarity Rating (FCR)                                              |
 
 ## Purpose
 
